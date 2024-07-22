@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="/demo/online_resume.webp" width="100%">
+  <img src="/demo/online-resume.webp" width="100%">
 </div>
 
 ## Description
